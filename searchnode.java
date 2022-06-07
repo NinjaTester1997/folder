@@ -41,6 +41,7 @@ public class SearchNode {
         //Checks whether list is empty  
         if(head == null) {  
             System.out.println("List is empty");  
+            System.out.println("List is empty"); 
         }  
         else {  
              do{  
